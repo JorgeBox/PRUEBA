@@ -1,0 +1,10 @@
+#include<iostream>
+#include<cstdio>
+usign namespace std;
+
+int main(){
+
+cout<<"Hola mundo"<<endl;
+
+return EXIT_SUCCESS;
+}
